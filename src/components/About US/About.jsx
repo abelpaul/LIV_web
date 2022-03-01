@@ -46,23 +46,18 @@ const About = () => {
 
                     <div className="para">
                       <span>
-                        To increase the volume in life, to enhance the
-                        frequencies in music, and to maximize the creative
-                        experience. We present Live In Volume (LiV) Records. An
-                        imprint that will represent ever-changing, genre
-                        breaking, and limitless music.
+                          We present Live In Volume (LiV) Records. An imprint that will represent ever-changing, genre breaking, and limitless music. LiV’s mission is to increase the volume in life, and to enhance the frequencies in music.
                       </span>
 
                       <span>
-                        Under the leadership of Hit Making producer London on Da
-                        Track, the collective and label will roll out a slew of
-                        recording artists of all genres. The LiV team combines
-                        their skills within technology, culture, and music to
-                        present talent in a future focused way.{" "}
+                          Under the leadership of Hit Making producer London on Da Track, 
+                          the collective and label will roll out a slew of recording artists of all genres.
+                          The LiV team combines their skills within technology, culture, and music to present
+                          talent in a future focused way.  {" "}
                       </span>
 
                       <span>
-                        "Live your dreams, Live abundantly, and Live in VOLUME."
+                          "Live your dreams, Live abundantly, and Live in VOLUME."
                       </span>
                       <span style={{ marginTop: "-5px" }}>
                         - CEO, London On Da Track

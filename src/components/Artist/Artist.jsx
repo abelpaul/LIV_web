@@ -146,7 +146,7 @@ const Artist = () => {
                         </div>
                         <div className="data">
                           <div className="title">
-                            B<span className="skin">JRNK</span>
+                            B<span className="skin">JRNCK</span>
                           </div>
 
                           <div className="para">
@@ -328,111 +328,10 @@ const Artist = () => {
                             </div>
                           </div>
                         </div>
-
-                        {/* <a href="#thirdartist" className="arrow">
-                          <img src={arrow} alt="" />
-                        </a> */}
+                        
                       </div>
                     </div>
-                    <div class="carousel-item">
-                      <div id="thirdartist" className="content content4">
-                        <div className="image">
-                          <img src={pic4} alt="" />
-                          <div className="shadow"></div>
-                        </div>
-                        <div className="data">
-                          <div className="title">
-                            QUA<span className="skin">N</span>T
-                            <span className="skin">R</span>
-                            ELL<span className="skin">E</span>
-                          </div>
-                          <div className="para">
-                            <span className="skin">
-                              <strong>Quantrelle</strong> is a melodic, hip hop
-                              and R&B artist out of
-                              <strong>Charlotte, North Carolina.</strong>
-                            </span>
-
-                            <span className="skin">
-                              His{" "}
-                              <strong>
-                                intricate wordplay, ingenious metaphors, and
-                                universal sound
-                              </strong>{" "}
-                              has allowed fans to gravitate naturally toward his
-                              music.
-                            </span>
-
-                            <span className="skin">
-                              Quantrelle's{" "}
-                              <strong>
-                                {" "}
-                                relatable stories and infectious hooks
-                              </strong>{" "}
-                              makes for a Top 40 record everytime.
-                            </span>
-
-                            <span>
-                              <strong>Mood music that heals the soul.</strong>
-                            </span>
-
-                            <span className="C-font">
-                              Melodic Hip Hop and RnB <br />
-                              Top 40 (Urban)
-                              <br />
-                              North Carolina
-                            </span>
-                          </div>
-                          {/* https://soundcloud.com/quantrelle/tracks
-                        https://music.apple.com/us/artist/quantrelle/1230685645 */}
-                          <div className="social">
-                            <a
-                              href="   https://www.instagram.com/quantrelle/?hl=en"
-                              target={"_blank"}
-                            >
-                              <img src={insta} alt="" />
-                            </a>
-                            <a
-                              href="https://www.youtube.com/channel/UCACH0mUfEPti3-zmVIAOPIg"
-                              target={"_blank"}
-                            >
-                              <img src={youtube} alt="" />
-                            </a>
-                            <a
-                              href="https://open.spotify.com/artist/6ihQt9eX2GMCUf08donJvo?autoplay=true"
-                              target={"_blank"}
-                            >
-                              <img src={spotify} alt="" />
-                            </a>
-                            <a
-                              href="https://twitter.com/qdotcokley"
-                              target={"_blank"}
-                            >
-                              <img src={twitter} alt="" />
-                            </a>
-                            <a
-                              href="https://soundcloud.com/quantrelle/tracks
-                                "
-                              target={"_blank"}
-                            >
-                              <ImSoundcloud2 color="white" size={24} />
-                            </a>
-                            <a
-                              href="https://music.apple.com/us/artist/quantrelle/123068564"
-                              target={"_blank"}
-                              style={{ display: "flex", alignItems: "center" }}
-                            >
-                              <BsApple />
-                              Music
-                            </a>
-                          </div>
-                        </div>
-
-                        {/* <div className="arrow">
-                          <img src={arrow} alt="" />
-                        </div> */}
-                      </div>
-                    </div>
+                    
                   </div>
 
                   <button
